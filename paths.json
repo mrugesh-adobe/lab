@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json"
+    "/content/mpanchal-lab/:/",
+    "/content/mpanchal-lab/configuration:/.helix/config.json"
   ]
 }
